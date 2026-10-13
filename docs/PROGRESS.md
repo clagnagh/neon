@@ -15,6 +15,7 @@ Claude adds a line to the task log each time a task in `docs/PLAN.md` is ticked 
 | Date | Task | Notes |
 |------|------|-------|
 | 2026-10-13 | — | Added `docs/PLAN.md` and this file to the repo. |
+| 2026-10-13 | — | Drafted `CLAUDE.md`, `docs/ARCHITECTURE.md` and `docs/DESIGN.md` from the plan. All numbers are first guesses to tune by playing. |
 
 ## What I learned
 
